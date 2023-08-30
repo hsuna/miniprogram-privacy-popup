@@ -1,0 +1,4 @@
+<view wx:if="{{needAuthorization}}" catch:touchstart="handleTouchInput">
+    <slot></slot>
+</view>
+<slot wx:else></slot>

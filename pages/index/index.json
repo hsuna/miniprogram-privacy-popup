@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "privacy-popup": "../../component/privacyPopup/privacyPopup",
+    "privacy-popup-wrap": "../../component/privacyPopupWrap/privacyPopupWrap"
+  },
+  "navigationBarTitleText": "首页"
+}

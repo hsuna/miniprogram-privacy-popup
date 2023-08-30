@@ -1,0 +1,12 @@
+<view>隐私Input：</view>
+<privacy-popup-wrap>
+    <input type="nickname" placeholder="请输入昵称"  style="border: 1px solid #dadada;" bindblur="handleGetNickname" />
+</privacy-popup-wrap>
+
+<view>隐私Button：</view>
+<button open-type="getPhoneNumber" bindgetphonenumber="handleGetPhoneNumber">获取手机号码</button>
+
+<view>隐私API：</view>
+<button bindtap="handleChooseImage">选择照片</button>
+
+<privacy-popup auto></privacy-popup>

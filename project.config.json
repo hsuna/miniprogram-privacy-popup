@@ -1,0 +1,15 @@
+{
+    "compileType": "miniprogram-privacy-popup",
+    "setting": {
+        "coverView": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "enhance": true,
+        "showShadowRootInWxmlPanel": true,
+        "packNpmRelationList": [],
+        "condition": false,
+        "ignoreUploadUnusedFiles": true
+    },
+    "libVersion": "3.0.1"
+}
