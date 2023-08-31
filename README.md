@@ -1,5 +1,7 @@
 # 小程序隐私保护授权弹窗组件
 
+[Taro版本](https://github.com/hsuna/taro-privacy-popup)
+
 > [关于小程序隐私保护指引设置的公告](https://developers.weixin.qq.com/community/develop/doc/00042e3ef54940ce8520e38db61801)，9 月 15 日起所有隐私接口需用户点击同意并同步给微信之后才可以使用。
 
 # 注意事项
